@@ -2,5 +2,6 @@
 def main(msg):
     print(msg)
 
+//print a message
 
 main ("hello guyworlds")
